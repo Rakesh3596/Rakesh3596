@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **rakeshdb9141@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1UWgIUNF0WlU2UhJzKUlx5YDwaqYd7XHD/view?usp=sharing](https://drive.google.com/file/d/1UWgIUNF0WlU2UhJzKUlx5YDwaqYd7XHD/view?usp=sharing)
+- 📄Portfolio link https://rakeshdb35portfoli.netlify.app/
 
 - ⚡ Fun fact **What ever the situvation i tried to be calm and explore the Happiness**
 
