@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **rakeshdb9141@gmail.com**
 
-- 📄Portfolio link https://rakeshdb35portfoli.netlify.app/
+- 📄Portfolio link https://rakesh3596.github.io/rakeshdb35portfolio.github.io/
 
 - ⚡ Fun fact **What ever the situvation i tried to be calm and explore the Happiness**
 
