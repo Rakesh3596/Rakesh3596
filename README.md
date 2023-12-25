@@ -14,7 +14,7 @@
 
 - 👯 I’m looking to collaborate on **Developing Highly Secured Payment App.**
 
-- 💬 Ask me about **Java,Maven,Hibernate,DSA**
+- 💬 Ask me about **Java,Spring-boot,Maven,Hibernate,DSA**
 
 - 📫 How to reach me **rakeshdb9141@gmail.com**
 
@@ -38,4 +38,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rakesh3596&show_icons=true&locale=en" alt="rakesh3596" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rakesh3596&" alt="rakesh3596" /></p>
+
