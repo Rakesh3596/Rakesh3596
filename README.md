@@ -1,7 +1,8 @@
 
  <img align="right" alt="Coding" height="300" width="1000"  
- src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiBcG_jFGvzPQhC0kSq6xo9w9wygZwYhbcCQ&usqp=CAU">
+ src="https://github.com/Rakesh3596/Rakesh3596/assets/101379879/56552622-0b0e-4eb6-82a5-34c61304d8d4">
  
+
 <h1 align="center">Hi 👋, I'm Rakesh D B</h1>
 <h3 align="center">A Creative Java Backend Developer from India</h3>
 
